@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "titulo": "Polera 1",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "1200.00"
+    },
+    {
+        "id": "02",
+        "titulo": "Polera 2",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "1800.00"
+    },
+    {
+        "id": "03",
+        "titulo": "Polera 3",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "200.00"
+    },
+    {
+        "id": "04",
+        "titulo": "Polera 4",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "950.00"
+    },
+    {
+        "id": "05",
+        "titulo": "Polera 5",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "99.00"
+    },
+    {
+        "id": "06",
+        "titulo": "Polera 6",
+        "imagen": "https://bokkoandbelial.com/wp-content/uploads/2019/10/BELIALOWEEN-500x650.jpg",
+        "precio": "99.00"
+    }
+]

@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding:0;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    color: #cb023f;
+}
+p{
+
+}
+h1{
+  margin: 30px 0 15px 0;
+}
+h2{
+  margin: 30px 0 15px 0;
+}
+h3{
+
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+/*Other class*/
+.FirstLetter{
+  text-transform:capitalize;
+}
+.btn-default{
+  border:1px solid #333;
+}
+/*Primary Elements*/
+.PrimaryLogo{
+    width: 100%;
+    max-width: 700px;
+    margin-bottom: 20px;
+  }
+.PrimaryBanner{
+    width: 100%;
+    height: 400px;
+    background: url(../img/banner.jpg) no-repeat center;
+    background-size: cover;
+  }
+/*Secondary Elements*/
+.SecondaryLogo{
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+  }
+.SecondaryBanner{
+    width: 100%;
+    height: 200px;
+    background: url(../img/banner2.jpg) no-repeat top center;
+    background-size: cover;
+  }
+/*Third Elements*/
+.ThirdBanner{
+    width: 100%;
+    height: 200px;
+    background: url(../img/banner3.jpg) no-repeat center;
+    background-size: cover;
+  }
+  /*Catálogo - Shop - Category*/
+  .product{
+    border:1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+  }
+  .product h2{
+    font-size: 24px;
+    margin-top:0;
+  }
